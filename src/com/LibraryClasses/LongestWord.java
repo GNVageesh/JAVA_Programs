@@ -1,10 +1,10 @@
-package com.Iterations;
+package com.LibraryClasses;
 
 public class LongestWord
 {
     public static void main (String[] args)
     {
-        String s = "Welcome to the World of JAVA";
+        String s = "JAVA Programming";
         s=s+" "; //adding a space at the end, to extract the last word also
         int len=s.length(); //finding the length of the sentence
         String x="",maxw="";
@@ -20,7 +20,7 @@ public class LongestWord
             else
             {System.out.println("x = "+x);
                 p=x.length();
-                if(p>maxl) //checking for maximum length
+                if(p>maxl)
                 {
                     maxl=p;
                     maxw=x;
@@ -31,3 +31,4 @@ public class LongestWord
         System.out.println("Longest word = "+maxw+"\nLength = "+maxl);
     }
 }
+
