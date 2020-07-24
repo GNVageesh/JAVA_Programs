@@ -23,7 +23,7 @@ Java Programs
 * Click on the file name.
 * A new page appears.
 * Select which part of the program you want and copy it.
-* Finally paste it wherever you want them.
+* Finally, paste it wherever you want them.
 
 ## This is that Simple.
 
