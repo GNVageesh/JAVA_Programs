@@ -29,6 +29,6 @@ public class armstrong
         if(numOri == cube)
             System.out.println(numOri+" is armstrong");
         else
-            System.out.println(numOri+" is not srmstrong");
+            System.out.println(numOri+" is not armstrong");
     }
 }
