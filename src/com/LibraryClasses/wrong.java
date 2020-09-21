@@ -1,6 +1,6 @@
 package com.LibraryClasses;
 
-class words
+public class wrong
 {
     public static void main (String s, String s1)//s1 is the word to be searched//
     {
