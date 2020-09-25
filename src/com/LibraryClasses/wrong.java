@@ -20,12 +20,12 @@ public class wrong
             else
             {
                 p=x.length();
-                {
+
                     wod=p;
                     wrd=x;
                     if(wrd.equals(s1))
                         count++;
-                }
+
                 x=""; //emptying the temporary variable to store next word
                 System.out.println(wrd);
 
